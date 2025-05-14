@@ -13,7 +13,7 @@ flutter:
     platforms:
       android:
         package: com.antonkarpenko.ffmpegkit
-        pluginClass: MainActivity
+        pluginClass: FfmpegKitFlutterPlugin
       ios:
         pluginClass: FFmpegKitFlutterPlugin
       macos:
